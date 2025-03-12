@@ -18,19 +18,18 @@ h1,h2,h3 {
 
 p{
 text-align: center;
-font-size: 12px;
 }
 
-p#basics{
+p #basics{
 font-size: 70px;
 }
-p#introduction{
-font-size: inherit;
+p #introduction{
+font-size: medium;
 }
-p#links{
-font-size: inherit;
+p #links{
+font-size: medium;
 color:rgb(85, 232, 27);
 }
-p#disclaimer{
+p #disclaimer{
 font-size: 12px;
 }

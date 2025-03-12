@@ -1,0 +1,34 @@
+body{
+    background-color: darkkhaki;
+    background-image: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a a:link,a:hover{
+    color: aqua;
+}
+a:active{
+    color: aquamarine;
+}
+
+h1,h2,h3 {
+    color: black;
+}
+
+p{
+text-align: center;
+}
+
+p#basics{
+font-size: large;
+}
+p#introduction{
+font-size: inherit;
+}
+p#links{
+font-size: inherit;
+}
+p#disclaimer{
+font-size: x-small;
+}

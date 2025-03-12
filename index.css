@@ -18,11 +18,11 @@ h1,h2,h3 {
 
 p{
 text-align: center;
-font-size: medium;
+font-size: 12px;
 }
 
 p#basics{
-font-size: large;
+font-size: 24px;
 }
 p#introduction{
 font-size: inherit;
@@ -31,5 +31,5 @@ p#links{
 font-size: inherit;
 }
 p#disclaimer{
-font-size: x-small;
+font-size: 8px;
 }
